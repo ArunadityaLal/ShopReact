@@ -1,7 +1,5 @@
 # ShopReact - E-Commerce Website
 
-![ShopReact Logo](https://via.placeholder.com/150x50?text=ShopReact)
-
 ## 📋 Overview
 
 ShopReact is a fully responsive e-commerce website built with React and Vite. It integrates with the Fake Store API to provide a complete shopping experience including product browsing, filtering, cart management, and checkout functionality. This project demonstrates modern React development practices including hooks, context API, and responsive design principles.
